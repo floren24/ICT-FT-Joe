@@ -23,7 +23,7 @@ document.getElementById("aboutBtn").addEventListener("click", () => {  // Menamb
     confirmButtonText: "Lanjutkan", // Teks tombol 
     backdrop: false //Menghapus overlay bawaan SweetAlert2
   }).then(() => {
-    window.location.href = "About/index1.html"; // Mengarahkan pengguna ke halaman html lain
+    window.location.href = "About/index3.html"; // Mengarahkan pengguna ke halaman html lain
   });
 });
 
@@ -35,7 +35,7 @@ document.getElementById("photoboothBtn").addEventListener("click", () => {  // M
     confirmButtonText: "Lanjutkan", // Teks tombol 
     backdrop: false //Menghapus overlay bawaan SweetAlert2
   }).then(() => {
-    window.location.href = "Photobooth/index3.html"; // Mengarahkan pengguna ke halaman html lain
+    window.location.href = "Photobooth/index2.html"; // Mengarahkan pengguna ke halaman html lain
   });
 }); 
 
@@ -47,7 +47,7 @@ document.getElementById("hakiBtn").addEventListener("click", () => {  // Menamba
     confirmButtonText: "Lanjutkan",  // Teks tombol 
     backdrop: false //Menghapus overlay bawaan SweetAlert2
   }).then(() => {
-    window.location.href = "HAKI/index2.html"; // Mengarahkan pengguna ke halaman html lain
+    window.location.href = "HAKI/index1.html"; // Mengarahkan pengguna ke halaman html lain
   });
 });
 
